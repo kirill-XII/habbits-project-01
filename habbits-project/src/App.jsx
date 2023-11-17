@@ -1,9 +1,12 @@
-import './App.module.css'
+// import './App.module.css'
+import NamePanel from './assets/NamePanel'
 
 function App() {
 	return (
 		<>
-			<div></div>
+			<div>
+				<NamePanel />
+			</div>
 		</>
 	)
 }
