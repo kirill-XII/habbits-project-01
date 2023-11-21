@@ -15,12 +15,3 @@
 	font-size: 15px;
 	margin: 0; /* Убираем маргины для h1 */
 }
-
-.panel button {
-	background-color: lightblue;
-	color: white;
-	border: none;
-	padding: 8px 16px;
-	cursor: pointer;
-	margin-right: 50px;
-}
